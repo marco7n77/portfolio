@@ -1,8 +1,1 @@
-# Welcome message
-print ("Welcome to the YouTube Channel Name Generator:")
-# Ask the user to put their nickname
-nick_name = input ("What is your nickname?\n")
-# Ask for their YT channel's topic
-topic = input ("What is your channel about?\n")
-# The result of YT channel name suggestion
-print ("You could name your channel (" + topic + " with " + nick_name + ")")
+the fuck am i doing
